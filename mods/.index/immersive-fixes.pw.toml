@@ -1,0 +1,13 @@
+filename = 'immersivefixes-1.0.4-all.jar'
+name = 'Immersive Fixes'
+side = 'both'
+
+[download]
+hash = '6dd80aac614801c6b027b3d0f3bc5071b0918dccfd9f28204d9166615a9cfff53e5b87e865677ba695b79833ab9711720224e42342988849dffc69d4a839a85e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AWRXGq2t/versions/sbCOw7bV/immersivefixes-1.0.4-all.jar'
+
+[update.modrinth]
+mod-id = 'AWRXGq2t'
+version = 'sbCOw7bV'

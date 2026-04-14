@@ -1,0 +1,13 @@
+filename = 'enigmaticdelicacy-1.0.1.jar'
+name = 'Enigmatic Delicacy'
+side = 'both'
+
+[download]
+hash = 'cd21aaae52e3e750fd7f9ebd3a51d32424787517'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6728873
+project-id = 1115663

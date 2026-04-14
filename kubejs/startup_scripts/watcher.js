@@ -1,0 +1,10 @@
+StartupEvents.registry('block', event => {
+    event.create('watcher')
+    .displayName('Watcher')
+    .material('wool')
+    .hardness(0.8)
+    .resistance(1.5)
+    .tagBlock('minecraft:mineable/shears')
+    .tagBlock('minecraft:wool')
+    .requiresTool(false)
+})

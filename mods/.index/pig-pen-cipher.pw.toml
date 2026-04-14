@@ -1,0 +1,13 @@
+filename = 'PigPen-Forge-1.20.1-15.0.3.jar'
+name = 'Pig Pen Cipher'
+side = 'both'
+
+[download]
+hash = 'd13476ea643955ed592f1558dbf21e1f6e76d431a621dfd3c482f3bde2096aa20695c5b78c31ad938904e1be93a954ad5651744416d1da085c2c08b92e1c0c9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2xZPITh8/versions/PIowXiWC/PigPen-Forge-1.20.1-15.0.3.jar'
+
+[update.modrinth]
+mod-id = '2xZPITh8'
+version = 'PIowXiWC'

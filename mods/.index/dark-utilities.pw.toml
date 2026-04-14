@@ -1,0 +1,13 @@
+filename = 'DarkUtilities-Forge-1.20.1-17.0.6.jar'
+name = 'Dark Utilities'
+side = 'both'
+
+[download]
+hash = 'd3fe1d37e650e904a7e540be73254c2af3b08a4ff37a69c579b030be311eb42b06878ea40aa0771f009ebf1da3972801c4f4d6bdd0ba650681315cb020576070'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CkqTAIaP/versions/kgD2c9Mq/DarkUtilities-Forge-1.20.1-17.0.6.jar'
+
+[update.modrinth]
+mod-id = 'CkqTAIaP'
+version = 'kgD2c9Mq'

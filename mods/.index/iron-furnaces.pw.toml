@@ -1,0 +1,13 @@
+filename = 'ironfurnaces-1.20.1-4.1.8.jar'
+name = 'Iron Furnaces'
+side = 'both'
+
+[download]
+hash = '72b1a549f74bd93054baa78619f6ac8b5d7c6a6df7565b0fcb3dcb3ae5c4d076801eae0193a76885d8db516247bb3817c7e3542eb86d69fe2dc8ad1d45e3960e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yPlaLxD1/versions/KHAcRQwi/ironfurnaces-1.20.1-4.1.8.jar'
+
+[update.modrinth]
+mod-id = 'yPlaLxD1'
+version = 'KHAcRQwi'

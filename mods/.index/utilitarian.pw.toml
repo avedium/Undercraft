@@ -1,0 +1,13 @@
+filename = 'utilitarian-1.20.1-0.9.1.jar'
+name = 'Utilitarian'
+side = 'both'
+
+[download]
+hash = '2b3c0cd142f41a1b4a9392819878c8b07d467594de83451ed9dfb2213fe2cef1c5c957d9b02b785a19302fa2357210a5712f63f99e337cc6058092028674d900'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/odpTfrvd/versions/YQpOBvSN/utilitarian-1.20.1-0.9.1.jar'
+
+[update.modrinth]
+mod-id = 'odpTfrvd'
+version = 'YQpOBvSN'

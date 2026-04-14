@@ -1,0 +1,13 @@
+Insanity Shaders: ElocinDev https://www.curseforge.com/minecraft/customization/insanity-shader
+BSL Shaders: Capt Tatsu https://www.bitslablab.com
+
+
+Insanity is based on BSL Shaders by Capt Tatsu.
+Most of the code is made by them and Insanity would not be possible without their work! :)
+
+Explicit permission was given by Capt Tatsu to edit BSL and use its code for Insanity :D
+
+Special Thanks:
+
+IMS, Iris Developer - Helping with fog issues
+GMeyo - Helping with the experimental apple sillicon macOS support

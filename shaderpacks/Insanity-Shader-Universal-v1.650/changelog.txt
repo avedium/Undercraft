@@ -1,0 +1,22 @@
+Insanity Shader v1.650
+June 2024
+
+- Added support for Iris 1.7
+- Fixed the shaderpack not working on 1.21
+
+Insanity Shader v1.600
+April 2024
+
+- Fixed macOS Apple Sillicon crash (Experimental)
+- Please report any bugs or issues with Apple Sillicon macOS, I do not have the hardware to test this.
+
+Insanity Shader v1.500
+October 2023
+
+- Added fog options screen to the atmospherics screen
+- Added Overworld fog slider
+- Added Nether fog slider
+- Added End fog slider
+- Added reflective surfaces (adv materials) option to the main screen
+- Moved cloud type config to the clouds screen
+- Changed "Cloud" config to "Cloud Type"
